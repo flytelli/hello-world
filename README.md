@@ -1,2 +1,8 @@
 # hello-world
-just another repository
+
+Hello folks,
+i'm just writing something to check my branch edits.
+
+Greetings,
+
+MM
